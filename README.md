@@ -1,4 +1,4 @@
-# credit-fraud-risk-predictor
+# Credit-Fraud-Risk-Predictor
 
 This project aims to detect fraudulent transactions from a credit card dataset using a Logistic Regression model. The dataset contains information about credit card loans, and the task is to classify transactions as legit (non-default) or fraudulent (default).
 
